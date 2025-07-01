@@ -13,7 +13,7 @@
 ###
 
 <p align="left">
-✨ Criando bugs desde 2023<br>
+✨ Codando desde 2021<br>
 📚 Atualmente aprendendo: Flask, SQL, Docker, C#, Kotlin e desenvolvimento web<br>
 🎯 Objetivo: Me tornar um desenvolvedor back-end completo e financeiramente bem-sucedido<br>
 </p>
