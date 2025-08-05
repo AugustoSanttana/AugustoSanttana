@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h1 align="left">Iaii 👋, tudo certo?</h1>
 
@@ -46,6 +46,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="AWS logo" />
+
 </div>
 
 ###
